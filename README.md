@@ -1,4 +1,7 @@
 # AGRISHOP
+<p align="center">
+  <img src="https://github.com/DinaSuzzete18/AGRISHOP/blob/main/img/Agrishop.JPG" width="800"/>
+</p>
 AGRISHOP merupakan marketplace penjualan hasil tani berbasis database yang dikembangkan menggunakan phpMyAdmin, JavaScript, dan MySQL. Proyek ini dirancang dengan struktur database yang dioptimalkan untuk menyediakan informasi penjualan, memfasilitasi pemrosesan pesanan yang efisien, dan meningkatkan manajemen produk.
 
 Fitur Utama:
