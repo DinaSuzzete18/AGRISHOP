@@ -39,6 +39,7 @@ Platform ini dirancang dengan struktur database yang terorganisasi untuk menunja
 <p align="center">
   <img src="https://github.com/DinaSuzzete18/AGRISHOP/blob/main/img/Penjual.JPG" width="600"/>
 </p>
+
 - Fitur:
   - **Dashboard**:
     - Laporan produk terlaris
